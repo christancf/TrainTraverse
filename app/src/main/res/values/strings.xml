@@ -1,0 +1,141 @@
+<resources>
+    <string name="app_name">TrainTraverse</string>
+    <string name="title_activity_test_nav">TestNav</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="lorem_ipsum">
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam in scelerisque sem. Mauris
+        volutpat, dolor id interdum ullamcorper, risus dolor egestas lectus, sit amet mattis purus
+        dui nec risus. Maecenas non sodales nisi, vel dictum dolor. Class aptent taciti sociosqu ad
+        litora torquent per conubia nostra, per inceptos himenaeos. Suspendisse blandit eleifend
+        diam, vel rutrum tellus vulputate quis. Aliquam eget libero aliquet, imperdiet nisl a,
+        ornare ex. Sed rhoncus est ut libero porta lobortis. Fusce in dictum tellus.\n\n
+        Suspendisse interdum ornare ante. Aliquam nec cursus lorem. Morbi id magna felis. Vivamus
+        egestas, est a condimentum egestas, turpis nisl iaculis ipsum, in dictum tellus dolor sed
+        neque. Morbi tellus erat, dapibus ut sem a, iaculis tincidunt dui. Interdum et malesuada
+        fames ac ante ipsum primis in faucibus. Curabitur et eros porttitor, ultricies urna vitae,
+        molestie nibh. Phasellus at commodo eros, non aliquet metus. Sed maximus nisl nec dolor
+        bibendum, vel congue leo egestas.\n\n
+        Sed interdum tortor nibh, in sagittis risus mollis quis. Curabitur mi odio, condimentum sit
+        amet auctor at, mollis non turpis. Nullam pretium libero vestibulum, finibus orci vel,
+        molestie quam. Fusce blandit tincidunt nulla, quis sollicitudin libero facilisis et. Integer
+        interdum nunc ligula, et fermentum metus hendrerit id. Vestibulum lectus felis, dictum at
+        lacinia sit amet, tristique id quam. Cras eu consequat dui. Suspendisse sodales nunc ligula,
+        in lobortis sem porta sed. Integer id ultrices magna, in luctus elit. Sed a pellentesque
+        est.\n\n
+        Aenean nunc velit, lacinia sed dolor sed, ultrices viverra nulla. Etiam a venenatis nibh.
+        Morbi laoreet, tortor sed facilisis varius, nibh orci rhoncus nulla, id elementum leo dui
+        non lorem. Nam mollis ipsum quis auctor varius. Quisque elementum eu libero sed commodo. In
+        eros nisl, imperdiet vel imperdiet et, scelerisque a mauris. Pellentesque varius ex nunc,
+        quis imperdiet eros placerat ac. Duis finibus orci et est auctor tincidunt. Sed non viverra
+        ipsum. Nunc quis augue egestas, cursus lorem at, molestie sem. Morbi a consectetur ipsum, a
+        placerat diam. Etiam vulputate dignissim convallis. Integer faucibus mauris sit amet finibus
+        convallis.\n\n
+        Phasellus in aliquet mi. Pellentesque habitant morbi tristique senectus et netus et
+        malesuada fames ac turpis egestas. In volutpat arcu ut felis sagittis, in finibus massa
+        gravida. Pellentesque id tellus orci. Integer dictum, lorem sed efficitur ullamcorper,
+        libero justo consectetur ipsum, in mollis nisl ex sed nisl. Donec maximus ullamcorper
+        sodales. Praesent bibendum rhoncus tellus nec feugiat. In a ornare nulla. Donec rhoncus
+        libero vel nunc consequat, quis tincidunt nisl eleifend. Cras bibendum enim a justo luctus
+        vestibulum. Fusce dictum libero quis erat maximus, vitae volutpat diam dignissim.
+    </string>
+    <string name="test_nav_desc">"This is a just a debug navigation screen for developers. "</string>
+    <string name="mainActivityNavigationBtn">Main Activity</string>
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome!"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="logo_first_half">Train</string>
+    <string name="logo_second_half">Traverse</string>
+    <string name="register">Sign Up</string>
+    <string name="nic_field_hint">NIC</string>
+    <string name="name_field_hint">Full Name</string>
+    <string name="email_field_hint">Email</string>
+    <string name="phone_number_field_hint">Phone Number</string>
+    <string name="password_field_hint">Password</string>
+    <string name="confirm_password_field_hint">Confirm Password</string>
+    <string name="register_button">Register</string>
+    <string name="login">Sign In</string>
+    <string name="username_field_hint">Username</string>
+    <string name="forgot_password_text">Forgot Password?</string>
+    <string name="login_button">Log In</string>
+    <string name="do_not_have_an_account_text">Don\'t have an account? </string>
+    <string name="menu_item_one">Home</string>
+    <string name="menu_item_two">Reservations</string>
+    <string name="menu_item_three">Profile</string>
+    <string name="edit_profile_button">Edit Profile</string>
+    <string name="save_button">Save</string>
+    <string name="cancel_button">Cancel</string>
+    <string name="other_settings_text">Other Settings</string>
+    <string name="logout_button">Logout</string>
+    <string name="change_password_button">Change Password</string>
+    <string name="deactivate_account_button">Deactivate Account</string>
+    <string name="cannot_be_empty_text">cannot be empty!</string>
+    <string name="invalid_name_error_text">Please enter a valid name</string>
+    <string name="invalid_email_error_text">Please enter a valid email</string>
+    <string name="invalid_phone_number_error_text">Please enter a valid phone number</string>
+    <string name="profile_update_success_message">Profile updated successfully!</string>
+    <string name="profile_update_fail_message">Profile update failed! try again later.</string>
+    <string name="logging_out_message">Logging out...</string>
+    <string name="registration_success_message">Successfully registered...</string>
+    <string name="registration_fail_message">Registration failed! try again later.</string>
+    <string name="invalid_nic_error_text">Please enter a valid NIC</string>
+    <string name="invalid_password_error_text">Password must contain at least 8 characters, 1 uppercase letter, 1 lowercase letter, 1 number and 1 special character</string>
+    <string name="passwords_mismatch_error_text">"Passwords do not match"</string>
+    <string name="required_email_error_text">Email is required</string>
+    <string name="required_password_error_text">Password is required</string>
+    <string name="logging_in_success_message">Logging in...</string>
+    <string name="logging_in_fail_message">Invalid credentials! Try again.</string>
+    <string name="change_password_title">Change Password</string>
+    <string name="current_password_hint">Current Password</string>
+    <string name="new_password_hint">New Password</string>
+    <string name="confirm_new_password_hint">Confirm New Password</string>
+    <string name="change_password_button_text">Update Password</string>
+    <string name="incorrect_current_password_error_text">Current Password is incorrect.</string>
+    <string name="same_password_error_text">New Password cannot be same as current password.</string>
+    <string name="password_update_success_message">Password updated successfully!</string>
+    <string name="password_update_fail_message">There was an error. Please try again later.</string>
+    <string name="deactivate_success_message">Account deactivated successfully!</string>
+    <string name="deactivate_fail_message">There was an error. Please try again later.</string>
+    <string name="deactivate_title_text">Are you sure?</string>
+    <string name="deactivate_message_text">If you deactivate your account:</string>
+    <string name="bullet">•</string>
+    <string name="deactivate_description_text_one">You can reactivate whenever you want by contacting the customer service team.</string>
+    <string name="deactivate_description_text_two">All your upcoming reservations will be cancelled.</string>
+    <string name="deactivate_description_text_three">If there are any reservations with in 5 days of deactivation request, there will be no refund.</string>
+    <string name="deactivate_description_text_four">Your data will still be available with us.</string>
+    <string name="deactivate_confirmation_text">Please confirm the deactivation request by entering your password</string>
+    <string name="deactivate_my_account_button_text">Deactivate My Account</string>
+    <string name="delete_my_account_text_title">If you want to delete your account instead, please contact the customer service team.</string>
+    <string name="delete_my_account_text_subtitle">Deleting your account will,</string>
+    <string name="delete_my_account_description_one">permanently remove your data from our system.</string>
+    <string name="delete_my_account_description_two">cancel all your upcoming reservations.</string>
+    <string name="delete_my_account_description_three">result in no refund, for any reservation with in 5 days of deactivation request.</string>
+    <string name="delete_my_account_description_four">remove access to your account.</string>
+    <string name="deactivate_account_invalid_password_error_text">Please enter your password to deactivate your account.</string>
+    <string name="reserve_screen_title">Welcome back</string>
+    <string name="default_username">User</string>
+    <string name="reservation_debug_btn">Reserve Activity</string>
+    <string name="departure_station_label">Departure Station</string>
+    <string name="arrival_station_label">Arrival Station</string>
+    <string name="departure_date_time">Departure Date and time</string>
+    <string name="reserve_btn">Reserve Now</string>
+    <string name="reservation_screen_title">Reservations</string>
+    <string name="reservation_history_btn">Reservation History</string>
+    <string name="no_reservation">No Reservations Yet</string>
+    <string name="make_reservation_now">"Make a Reservation "</string>
+    <string name="view_reservation_btn">View Reservation</string>
+    <string name="cancel_in_days">*cancel up to 5 days in advance</string>
+    <string name="cacel_reservation">Cancel Reservation</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
